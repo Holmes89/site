@@ -1,4 +1,4 @@
-module github.com/Holmes89/personal-site/site
+module github.com/holmes89/site
 
 go 1.13
 
