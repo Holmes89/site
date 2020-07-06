@@ -23,7 +23,7 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/Holmes89/personal-site/site/internal"
+	"github.com/holmes89/site/internal"
 	"github.com/spf13/cobra"
 	"os"
 

@@ -23,7 +23,7 @@ package cmd
 
 import (
 	"errors"
-	"github.com/Holmes89/personal-site/site/internal"
+	"github.com/holmes89/site/internal"
 	"github.com/spf13/cobra"
 	"io/ioutil"
 	"os"
